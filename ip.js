@@ -1,1 +1,1 @@
-const SERVER_URL = "https://admin.localhost.run";
+const SERVER_URL = "https://8c7b1b3e0275f1.lhr.life";
