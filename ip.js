@@ -1,1 +1,1 @@
-const SERVER_URL = "https://0b25ab9e8000c0.lhr.life";
+const SERVER_URL = "https://1464123d06a941.lhr.life";
