@@ -1,1 +1,1 @@
-const SERVER_URL = "https://2e4391b4.r5.cpolar.top";
+const SERVER_URL = "https://ebcd37f.r10.vip.cpolar.cn";
